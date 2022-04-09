@@ -1,0 +1,20 @@
+{
+  "name": "djs-v14-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["djs-v14", "v14", "djs", "bot", "discord"],
+  "author": "EfeSorogluu",
+  "license": "MIT",
+  "dependencies": {
+    "@discordjs/builders": "^0.13.0-dev.1649160523-402514f",
+    "@discordjs/rest": "^0.4.0-dev.1649160494-402514f",
+    "discord-api-types": "^0.31.0",
+    "discord.js": "^14.0.0-dev.1649160496-402514f",
+    "dotenv": "^16.0.0"
+  }
+}
